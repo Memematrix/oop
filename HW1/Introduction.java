@@ -5,7 +5,7 @@ public class Introduction {
         System.out.print("24020181\t");
         System.out.print("INT2204 1\t");
         System.out.print("Memematrix\t");
-        System.out.println("24020181\t");
+        System.out.println("24020181@vnu.edu.vn\t");
         System.out.println("9 bottles of beer on the wall, 9 bottles of beer.");
         System.out.println("Take one down, pass it around, ");
         System.out.println("8 bottles of beer on the wall, 8 bottles of beer.");
